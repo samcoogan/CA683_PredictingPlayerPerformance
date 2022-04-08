@@ -1,6 +1,6 @@
 ## CA683 Data Analytics and Data Mining - Assignment
 
-Wanqing Want, Sam Coogan 
+Wanqing Want, Sam Coogan <br>
 Dublin City University, Ireland <br>
 
 ---
